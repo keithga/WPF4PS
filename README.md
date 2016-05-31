@@ -19,6 +19,9 @@ Here is a fully functional example:
 - Call the Show-XAMLWindow function
 - Get the value of the TextBox from the Hash
 
+
+![alt text](https://raw.githubusercontent.com/keithga/WPF4PS/master/Graphics/WPF4PS.png "Logo Title Text 1")
+
 ```PowerShell
 
 <#
