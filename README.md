@@ -19,7 +19,7 @@ Here is a fully functional example:
 - Call the Show-XAMLWindow function
 - Get the value of the TextBox from the Hash
 
-'''PowerShell
+```PowerShell
 
 <#
 .SYNOPSIS
@@ -72,5 +72,7 @@ Show-XAMLWindow -XAML $MyXAML -ControlScripts $MyControl -SyncHash $MyHash
 $MyHash.TextBox1 | Write-Host 
 
 
-'''
+````
+
+Keith
 
